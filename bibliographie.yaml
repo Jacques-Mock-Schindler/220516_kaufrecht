@@ -1,0 +1,49 @@
+---
+references:
+- id: honsellSchweizerischesObligationenrechtBesonderer2017
+  author:
+    - family: Honsell
+      given: Heinrich
+  citation-key: honsellSchweizerischesObligationenrechtBesonderer2017
+  collection-title: Stämpflis juristische Lehrbücher
+  edition: 10., überarbeitete Auflage
+  event-place: Bern
+  ISBN: 978-3-7272-1027-3
+  issued:
+    - year: 2017
+  language: ger
+  number-of-pages: '527'
+  publisher: Stämpfli Verlag
+  publisher-place: Bern
+  source: K10plus ISBN
+  title: Schweizerisches Obligationenrecht, Besonderer Teil
+  type: book
+
+- id: romRecht
+  citation-key: romRecht
+  collection-number: 2/3
+  collection-title: >-
+    Enzyklopädie der Rechts- und Staatswissenschaft / begr. von F. von Liszt ...
+    Hrsg. von H. Albach ... Abteilung Rechtswissenschaft
+  edition: 4. Aufl
+  editor:
+    - family: Jörs
+      given: Paul
+    - family: Kunkel
+      given: Wolfgang
+    - family: Wenger
+      given: Leopold
+    - family: Honsell
+      given: Heinrich
+  event-place: Berlin
+  ISBN: 978-3-540-16866-9 978-0-387-16866-1
+  issued:
+    - year: 1987
+  language: ger
+  number-of-pages: '626'
+  publisher: Springer
+  publisher-place: Berlin
+  source: K10plus ISBN
+  title: Römisches Recht
+  type: book
+...
