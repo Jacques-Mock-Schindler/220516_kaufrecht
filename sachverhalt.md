@@ -20,13 +20,15 @@ output:
 ## Sachverhalt
 
 Gemüsehändler K. hat auf den 26. Juni, 05:00 Uhr, bei seinem
-Grosshändler 1'000 kg Erdbeeren zu CHF 3.80 je kg bestellt. Da die
+Grosshändler 1'000 kg Erdbeeren zu CHF 3.80 je kg bestellt[]. Da die
 Früchte aber nicht eintreffen, deckt sich K. noch am gleichen Morgen
 um 07:00 Uhr mit 1'000 kg zu CHF 4.00 das Kilo anderswo ein. Als um
 08:00 Uhr der Grosshändlers die bestellten Erdbeeren liefern will,
 ver­weigert K. die Annahme.
 
 ## Rechtslage
+
+Hier text[@HonsellORBT, Seite 15]  hier noch eine Textänderung
 
 
 ## Rechtsanwendung
