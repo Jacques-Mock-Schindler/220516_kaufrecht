@@ -30,7 +30,8 @@ ver­weigert K. die Annahme.
 
 Laut *Art. 190 OR* [@OR, Page 69] so wird vermutet, dass der Käufer
 auf die Lieferung verzichtet und Schadenersatz wegen Nichterfüllung beansprucht,
-falls der Käufer in Verzug kommt.
+falls der Käufer in Verzug kommt. Ausserdem kann K. laut *Art. 107 OR* [@OR, Page 73]
+nebst Schadenersatz wegen Ver­spätung klagen, statt dessen aber auch, wenn er es unverzüglich erklärt, auf die nachträgliche Leistung verzichten und entweder Ersatz des aus der Nichterfüllung entstandenen Schadens verlangen oder vom Vertrage zurücktreten.
 
 ## Rechtsanwendung
 
