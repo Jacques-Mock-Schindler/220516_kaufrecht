@@ -1,7 +1,7 @@
 ---
 # Angaben für das Deckblatt
 title: "Schuldnerverzug im kaufmännischen Verkehr"
-author: "Numerius Negidius"
+author: "Lev Saminskij"
 date: 16. Mai 2022
 
 # Angaben zum Inhalt und zur Darstellung der Bibliographie
@@ -28,5 +28,13 @@ ver­weigert K. die Annahme.
 
 ## Rechtslage
 
+Laut *Art. 190 OR* [@OR, Page 69] so wird vermutet, dass der Käufer
+auf die Lieferung verzichtet und Schadenersatz wegen Nichterfüllung beansprucht,
+falls der Käufer in Verzug kommt. Ausserdem kann K. laut *Art. 107 OR* [@OR, Page 73]
+nebst Schadenersatz wegen Ver­spätung klagen, statt dessen aber auch, wenn er es unverzüglich erklärt, auf die nachträgliche Leistung verzichten und entweder Ersatz des aus der Nichterfüllung entstandenen Schadens verlangen oder vom Vertrage zurücktreten.
 
 ## Rechtsanwendung
+
+K. muss die verspätete Lieferung laut *Art. 190 OR* [@OR, Page 69] nicht annehmen.
+Des weiteren muss der Grosshändler Schadenersatz leisten, für den, durch
+die verspätete Lieferung, enstandenen Schaden.
