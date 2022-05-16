@@ -17,7 +17,7 @@
     The citation is adapted for the style of articles in Swiss law publications. It's similar to the style of the course book Ryser Büschi/Schlegel/Pflaum, Juristische Arbeiten 
     erfolgreich schreiben und präsentieren, 2nd ed., Zurich 2017 (ISBN 978-3-7255-7612-8). Legal Commentaries and handbooks should use publication type &quot;entry-encyclopedia&quot;. 
     See more details in the comments.</summary>
-    <updated>2022-04-30T06:04:07+00:00</updated>
+    <updated>2022-05-16T08:00:38+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -126,6 +126,7 @@
             <text macro="author"/>
             <text variable="title"/>
             <text variable="edition" suffix=" Aufl."/>
+            <text value="Seite"/>
             <group delimiter=" ">
               <text variable="publisher-place"/>
               <date date-parts="year" form="text" variable="issued"/>
@@ -296,4 +297,3 @@
   </citation>
   <bibliography subsequent-author-substitute="ders." line-spacing="1" hanging-indent="true"/>
 </style>
-
