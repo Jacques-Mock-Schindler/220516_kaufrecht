@@ -1,0 +1,87 @@
+---
+references:
+- id: Honsell2015
+  call-number: KKW804.51911 .O25 2015
+  citation-key: Honsell2015
+  collection-title: Basler Kommentar
+  edition: 6. Auflage
+  editor:
+    - family: Honsell
+      given: Heinrich
+    - family: Vogt
+      given: Nedim Peter
+    - family: Wiegand
+      given: Wolfgang
+  event-place: Basel
+  ISBN: 978-3-7190-3171-8
+  issued:
+    - year: 2015
+  publisher: Helbing Lichtenhahn Verlag
+  publisher-place: Basel
+  source: Library of Congress ISBN
+  title: Obligationenrecht
+  type: book
+
+- id: HonsellORBT
+  author:
+    - family: Honsell
+      given: Heinrich
+  citation-key: HonsellORBT
+  collection-title: Stämpflis juristische Lehrbücher
+  edition: '10.'
+  event-place: Bern
+  ISBN: 978-3-7272-1027-3
+  issued:
+    - year: 2017
+  language: ger
+  number-of-pages: '527'
+  publisher: Stämpfli Verlag
+  publisher-place: Bern
+  source: K10plus ISBN
+  title: Schweizerisches Obligationenrecht, Besonderer Teil
+  type: book
+
+- id: romRecht
+  author:
+    - family: Jörs
+      given: Paul
+  citation-key: romRecht
+  collection-title: >-
+    Enzyklopädie der Rechts- und Staatswissenschaft, Abteilung
+    Rechtswissenschaft
+  edition: 4. Aufl. neu bearb. von Heinrich Honsell, Theo Mayer-Maly, Walter Selb
+  event-place: Berlin
+  ISBN: 978-0-387-16866-1
+  issued:
+    - year: 1987
+  language: ger
+  number-of-pages: xxx+626
+  publisher: Springer
+  publisher-place: Berlin
+  source: uzb.swisscovery.slsp.ch
+  title: Römisches Recht
+  type: book
+
+- id: schneebergerSchuldnerverzugSchweizerRecht2015
+  abstract: >-
+    Bei Schuldnerverzug darf der Gläubiger, ihm eine angemessene Frist zur
+    nachträglichen Erfüllung anzusetzen und kann später auf Schadenersatz
+    klagen.
+  accessed:
+    - year: 2022
+      month: 5
+      day: 6
+  author:
+    - family: Schneeberger
+      given: David
+  citation-key: schneebergerSchuldnerverzugSchweizerRecht2015
+  container-title: lexwiki.ch
+  issued:
+    - year: 2015
+      month: 7
+      day: 17
+  language: de-DE
+  title: Schuldnerverzug | Schweizer Recht verständlich erklärt | lexwiki.ch |
+  type: post-weblog
+  URL: https://www.lexwiki.ch/schuldnerverzug/
+...
