@@ -28,12 +28,12 @@ ver­weigert K. die Annahme.
 
 ## Rechtslage
 
-Laut *Art. 190 OR* [@OR, Seite 69] so wird vermutet, dass der Käufer
+Laut *Art. 190 OR* [@OR, Page 69] so wird vermutet, dass der Käufer
 auf die Lieferung verzichtet und Schadenersatz wegen Nichterfüllung beansprucht,
 falls der Käufer in Verzug kommt.
 
 ## Rechtsanwendung
 
-K. muss die verspätete Lieferung laut *Art. 190 OR* [@OR, Seite 69] nicht annehmen.
+K. muss die verspätete Lieferung laut *Art. 190 OR* [@OR, Page 69] nicht annehmen.
 Des weiteren muss der Grosshändler Schadenersatz leisten, für den, durch
 die verspätete Lieferung, enstandenen Schaden.
