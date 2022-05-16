@@ -1,7 +1,7 @@
 ---
 # Angaben für das Deckblatt
 title: "Schuldnerverzug im kaufmännischen Verkehr"
-author: "Numerius Negidius"
+author: "Lev Saminskij"
 date: 16. Mai 2022
 
 # Angaben zum Inhalt und zur Darstellung der Bibliographie
@@ -28,6 +28,9 @@ ver­weigert K. die Annahme.
 
 ## Rechtslage
 
-
+Laut *Art. 190 OR* [@OR, S. 69] so wird vermutet, dass der Käufer
+auf die Lieferung verzichtet und Schadenersatz wegen Nichterfüllung beansprucht,
+falls der Käufer in Verzug kommt.
 
 ## Rechtsanwendung
+
